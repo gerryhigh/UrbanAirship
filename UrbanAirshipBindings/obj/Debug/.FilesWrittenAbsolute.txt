@@ -1,0 +1,12 @@
+/projects/Mono/urbanairshipbindings/obj/Debug/MonoAndroid,Version=v4.0.AssemblyAttribute.cs
+/projects/Mono/urbanairshipbindings/obj/Debug/UrbanAirshipBindings.Jars.urbanairship-lib-3.0.0.jar
+/projects/Mono/urbanairshipbindings/bin/Debug/UrbanAirshipBindings.dll.mdb
+/projects/Mono/urbanairshipbindings/bin/Debug/UrbanAirshipBindings.dll
+/projects/Mono/urbanairshipbindings/obj/Debug/UrbanAirshipBindings.dll
+/projects/Mono/urbanairshipbindings/obj/Debug/UrbanAirshipBindings.dll.mdb
+/projects/Mono/UrbanAirship/UrbanAirshipBindings/obj/Debug/MonoAndroid,Version=v4.0.AssemblyAttribute.cs
+/projects/Mono/UrbanAirship/UrbanAirshipBindings/obj/Debug/UrbanAirshipBindings.Jars.urbanairship-lib-3.0.0.jar
+/projects/Mono/UrbanAirship/UrbanAirshipBindings/bin/Debug/UrbanAirshipBindings.dll.mdb
+/projects/Mono/UrbanAirship/UrbanAirshipBindings/bin/Debug/UrbanAirshipBindings.dll
+/projects/Mono/UrbanAirship/UrbanAirshipBindings/obj/Debug/UrbanAirshipBindings.dll
+/projects/Mono/UrbanAirship/UrbanAirshipBindings/obj/Debug/UrbanAirshipBindings.dll.mdb

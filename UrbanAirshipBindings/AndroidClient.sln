@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrbanAirshipBindings", "UrbanAirshipBindings.csproj", "{23A1972F-FD2E-4DA5-A7B2-B6F9C80B9540}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrbanAirshipClient", "..\UrbanAirshipClient\UrbanAirshipClient.csproj", "{04552C3A-24C6-4941-BAA3-2CDC386E4028}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04552C3A-24C6-4941-BAA3-2CDC386E4028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04552C3A-24C6-4941-BAA3-2CDC386E4028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04552C3A-24C6-4941-BAA3-2CDC386E4028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04552C3A-24C6-4941-BAA3-2CDC386E4028}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23A1972F-FD2E-4DA5-A7B2-B6F9C80B9540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A1972F-FD2E-4DA5-A7B2-B6F9C80B9540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A1972F-FD2E-4DA5-A7B2-B6F9C80B9540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A1972F-FD2E-4DA5-A7B2-B6F9C80B9540}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = ..\UrbanAirshipClient\UrbanAirshipClient.csproj
+	EndGlobalSection
+EndGlobal
