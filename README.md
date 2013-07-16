@@ -1,4 +1,4 @@
-UrbanAirsip
+UrbanAirship
 ===========
 
-Xamarin bindings for Urbanairship
+Xamarin bindings for UrbanAirship
