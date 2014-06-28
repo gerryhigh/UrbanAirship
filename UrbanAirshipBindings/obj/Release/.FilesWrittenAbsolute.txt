@@ -1,4 +1,4 @@
-/projects/Mono/urbanairshipbindings/obj/Release/MonoAndroid,Version=v4.0.AssemblyAttribute.cs
-/projects/Mono/urbanairshipbindings/obj/Release/UrbanAirshipBindings.Jars.urbanairship-lib-3.0.0.jar
-/projects/Mono/urbanairshipbindings/bin/Release/UrbanAirshipBindings.dll
-/projects/Mono/urbanairshipbindings/obj/Release/UrbanAirshipBindings.dll
+/projects/Mono/UrbanAirship/UrbanAirshipBindings/obj/Release/MonoAndroid,Version=v4.0.AssemblyAttribute.cs
+/projects/Mono/UrbanAirship/UrbanAirshipBindings/obj/Release/UrbanAirshipBindings.Jars.urbanairship-lib-3.0.0.jar
+/projects/Mono/UrbanAirship/UrbanAirshipBindings/bin/Release/UrbanAirshipBindings.dll
+/projects/Mono/UrbanAirship/UrbanAirshipBindings/obj/Release/UrbanAirshipBindings.dll
